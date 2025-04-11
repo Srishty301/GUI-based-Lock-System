@@ -1,10 +1,6 @@
 # GUI-based-Lock-System
 
-### **Project Title**: Keypad Lock System with Sound Feedback and LCD Display
-
----
-
-### **Project Description**
+### **Description**
 This project implements a **Keypad Lock System** using **PSoC 5LP**, designed to secure access with a 4-digit PIN. The system integrates several components, including a **PWM-based buzzer for sound feedback**, an **LCD for user interaction**, and an **EEPROM for password storage**. The system also features USB communication via the **USBUART module** for debugging and feedback.
 
 ---
@@ -125,11 +121,3 @@ This project implements a **Keypad Lock System** using **PSoC 5LP**, designed to
 ```
 
 This project demonstrates how to combine multiple PSoC components to create a functional and interactive security system suitable for educational purposes or small-scale applications!
-
-Citations:
-[1] https://pplx-res.cloudinary.com/image/upload/v1744363871/user_uploads/lcHWmIUwevmewJJ/image.jpg
-[2] https://pplx-res.cloudinary.com/image/upload/v1744363934/user_uploads/yCySMHAgixnBHQQ/image.jpg
-[3] https://pplx-res.cloudinary.com/image/upload/v1744364205/user_uploads/PMDMIMCQxreIwpn/image.jpg
-
----
-Answer from Perplexity: pplx.ai/share
