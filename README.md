@@ -120,4 +120,11 @@ This project implements a **Keypad Lock System** using **PSoC 5LP**, designed to
 └── LICENSE
 ```
 
+![image](https://github.com/user-attachments/assets/14ae4501-6404-4582-a7d9-2bdc002f9aa7)
+
+![image](https://github.com/user-attachments/assets/9d5e3aa4-bd87-4a1c-8ffa-241d28dc23c9)
+
+
+
+
 This project demonstrates how to combine multiple PSoC components to create a functional and interactive security system suitable for educational purposes or small-scale applications!
